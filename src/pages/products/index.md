@@ -3,14 +3,14 @@ heading: Member Services
 path: /products
 templateKey: product-page
 title: Support
-image: /img/lilly-rum-15ytrxkuj14-unsplash.jpg
+image: /img/annie-spratt-qckxruozjrg-unsplash.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/infolinia.jpg
+    - image: /img/icon_call.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
